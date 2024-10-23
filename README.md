@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm currently studying BSc Mathematics @ QMUL
+I program in both python and java, and I enjoy solving problems from ProjectEuler.net
 <!--
 **FeveredCarton57/FeveredCarton57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
